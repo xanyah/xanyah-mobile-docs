@@ -52,5 +52,5 @@ Generate a keystore file:
 $ keytool -genkey -v -keystore <path to keystore>.keystore -alias <keystore alias> -keyalg RSA -keysize 2048 -validity 10000
 ```
 
-Then, update your \`.env\` with your keystore informations. You're now good to go!
+Then, update your `.env` with your keystore informations. You're now good to go!
 
