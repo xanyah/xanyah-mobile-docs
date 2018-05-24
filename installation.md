@@ -2,6 +2,7 @@
 
 ## Requirements
 
+* React Native CLI
 * Yarn
 
 ## Installation
